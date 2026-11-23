@@ -1,3 +1,6 @@
+<img width="613" height="776" alt="image" src="https://github.com/user-attachments/assets/df912f36-a3b3-4161-8d10-797231c3fef6" />
+<img width="572" height="1159" alt="image" src="https://github.com/user-attachments/assets/4dc7df67-58b3-4eaf-a812-c4267ebdbf19" />
+
 При N = 35 все задания
 <img width="1211" height="387" alt="1_35" src="https://github.com/user-attachments/assets/03d10764-1c3e-44fa-93a5-a7a5b4b9f35a" />
 <img width="1478" height="177" alt="2_35" src="https://github.com/user-attachments/assets/a24ae712-0fae-47a3-bbed-64052e55da24" />
