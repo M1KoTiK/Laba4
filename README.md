@@ -2,7 +2,7 @@
 <img width="572" height="1159" alt="image" src="https://github.com/user-attachments/assets/4dc7df67-58b3-4eaf-a812-c4267ebdbf19" />
 
 При N = 35 все задания
-<img width="1211" height="387" alt="1_35" src="https://github.com/user-attachments/assets/03d10764-1c3e-44fa-93a5-a7a5b4b9f35a" />
+<img width="833" height="376" alt="1_35" src="https://github.com/user-attachments/assets/32c9c9c6-2416-4acc-9f10-d2658c5f115c" />
 <img width="1478" height="177" alt="2_35" src="https://github.com/user-attachments/assets/a24ae712-0fae-47a3-bbed-64052e55da24" />
 <img width="1190" height="273" alt="3_35" src="https://github.com/user-attachments/assets/66933d93-fe23-42bf-ba83-8de94d1ab96b" />
 <img width="1087" height="230" alt="4_35" src="https://github.com/user-attachments/assets/3e51e5a2-dd79-448e-bb49-4e352b2be9b3" />
